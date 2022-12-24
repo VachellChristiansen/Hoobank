@@ -1,5 +1,5 @@
 import styles from './style'
-import { Billing, Business, Button, CardDeal, Clients, CTA, FeedbackCard, Footer, Hero, Navbar, Stats, Testimonials
+import { Billing, Business, CardDeal, Clients, CTA, Footer, Hero, Navbar, Stats, Testimonials
 } from './components'
 
 const App = () => {
